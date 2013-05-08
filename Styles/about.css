@@ -128,12 +128,6 @@ border-bottom: 15px solid #0B1722;
 margin-bottom: 14px;
 padding: 2px 0;
 }
-.microphone { 
-  height: 500px;
-  width:960px;
-  background: #0f0c05
-  padding:0px;
-  }
 
 
 .container{
@@ -155,22 +149,12 @@ filter:alpha(opacity=40); /* For IE8 and earlier */
   padding: 0px;
   width: 100%; 
 }
-.main-nav {
-position: absolute;
-bottom: 7px;
-right: 20px;
-color: #13060d;
-font-family: 'Rokkit', Georgia, "Times New Roman", Times, serif;
-font-size: 44px;
-text-shadow: 1px 1px 0pxfloat:right;
-margin-bottom: 21px
-}
 
 
 .nav-about{
 bottom: 0px;
 right: 20px;
-color: #F2E3D9;
+color: white;
 font-family: 'Rokkit', Georgia, "Times New Roman", Times, serif;
 font-size: 28px;
 text-shadow: 1px 1px 0px float:right;
@@ -179,7 +163,7 @@ margin-top: 0px
 
 .link-block {
 font-size: 34px;
-color:#F2E3D9; 
+color:white; 
 float: right;
 margin-right: 2px;
 cursor: pointer;
