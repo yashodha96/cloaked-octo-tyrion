@@ -46,7 +46,6 @@ border-radius: 6px;
 box-shadow: 3px 3px 20px black;
 }
 #button-bonanza-1{
-
 background: -moz-linear-gradient(left, rgba(119,176,224,1) 19%, rgba(139,191,232,1) 19%); /* FF */
 background: -webkit-linear-gradient(left, rgba(119,176,224,1) 19%,rgba(139,191,232,1) 19%); /* Chrome,Safari*/
 background: -o-linear-gradient(left, rgba(119,176,224,1) 19%,rgba(139,191,232,1) 19%); /* Opera */
@@ -72,15 +71,4 @@ background: -moz-linear-gradient(left,  rgba(204,0,0,1) 19%, rgba(247,107,107,1)
 background: -webkit-linear-gradient(left,  rgba(204,0,0,1) 19%,rgba(247,107,107,1) 19%); /* Chrome,Safari */
 background: -o-linear-gradient(left,  rgba(204,0,0,1) 19%,rgba(247,107,107,1) 19%); /* Opera */
 background: -ms-linear-gradient(left,  rgba(204,0,0,1) 19%,rgba(247,107,107,1) 19%); /* IE */
-}
-
-.container{
-position:absolute;
-opacity:0.4;
-filter:alpha(opacity=40); 
-  background: #FCF9F7;
-  height: 95px;
-  margin: 0px;
-  padding: 0px;
-  width: 100%;
 }
