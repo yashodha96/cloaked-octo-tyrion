@@ -139,7 +139,7 @@ padding: 2px 0;
 .container{
 position:absolute;
 opacity:0.4;
-filter:alpha(opacity=40); /* For IE8 and earlier */
+filter:alpha(opacity=40); 
   background: #FCF9F7;
   height: 95px;
   margin: 0px;
