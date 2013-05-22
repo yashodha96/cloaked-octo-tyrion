@@ -115,16 +115,17 @@ margin-top: 385px;
 
 
 .top-header{
-opacity:0.7;
+opacity:0.99;
+font-size: 50px;
 background: #A9C247;
 border-bottom: 2px solid #FCF9F7;
-margin-bottom: 34px;
+margin-bottom: 38px;
 padding: 23px 0;
 }
 .header-about{
   opacity:0.7;
 background: #0B1722;
-border-bottom: 15px solid #0B1722;
+border-bottom: 19px solid #0B1722;
 margin-bottom: 14px;
 padding: 2px 0;
 }
@@ -217,6 +218,9 @@ padding: 2px 0;
 }
 
 
+.my-name{
+font-size: 50px;
+}
 
 
 
