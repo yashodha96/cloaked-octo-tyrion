@@ -48,7 +48,7 @@ table {
 /* end of the reset */
 
 .img {
-width: 100%;
+width: 1196px;
 }
 }
 body{
@@ -105,7 +105,7 @@ border: 0;
 outline: 0;
 }
 
-content{
+.content{
 margin-bottom: 20px;
 font-size: 1em;
 line-height: 1.5em;
